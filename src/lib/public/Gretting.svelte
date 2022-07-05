@@ -10,5 +10,6 @@
 <style>
   section {
     text-align: center;
+    margin: 2rem 0;
   }
 </style>
